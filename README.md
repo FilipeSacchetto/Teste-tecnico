@@ -5,6 +5,10 @@ Este repositório contem o teste técnico da Data Sprints e toda explicação de
 
 - Todas as análises foram feitas usando Python3.
 
+- Extraia os arquivos do .zip
+
+- Faça o download dos bancos de dados json no arquivo do Teste-tecnico PDF
+
 - Para rodar as visualizações feitas durante esse teste, use o jupyter notebook:
 `pip install jupyterlab`
 - Quaisquer bibliotecas diferenstes, use o install dentro do Jupyter para prosseguir:
