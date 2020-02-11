@@ -14,7 +14,7 @@ Este repositório contem o teste técnico da Data Sprints e toda explicação de
 
 Para acessar o banco de dados via AWS:
 
-Host: 
+Host: testetecnico.c0lv9dqsdjjg.us-east-2.rds.amazonaws.com
 
 Port: 3306
 
