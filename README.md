@@ -10,6 +10,8 @@ Este repositório contem o teste técnico da Data Sprints e toda explicação de
 - Quaisquer bibliotecas diferenstes, use o install dentro do Jupyter para prosseguir:
 `!pip install nome_da_bibilioteca`
 
+- Para visualizar, apenas abra o arquivo html
+
 Para acessar o banco de dados via AWS:
 
 Host: 
